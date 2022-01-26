@@ -26,7 +26,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=mvxim&show_icons=true">
   <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=mvxim&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mvxim*&layout=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mvxim&layout=compact">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvxim&layout=compact" />
 </a>
 </div>
