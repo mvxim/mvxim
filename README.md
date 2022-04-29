@@ -1,7 +1,7 @@
-### Привет! Меня зовут Максим Доника, я начинающий фронтенд-разработчик 👋
+### Привет! Меня зовут Максим Доника, я фронтенд-разработчик 👋
 
 - 🎓 Учусь в Яндекс.Практикуме;
-- ☄️ Хочу замастерить React.js и разрабатывать крутые интерфейсы;
+- ☄️ Работаю над фронтом в <a href="https://quickresto.ru">quickresto.ru</a>
 - 💼 Ищу коллектив, в котором смогу учиться новому и быть полезным;
 - 💎 Учусь писать чистый и поддерживаемый код;
 
@@ -9,9 +9,10 @@
 <p>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>  
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/blob/master/icons/typescript.svg" alt="TypeScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://mobx.js.org/README.html" title="MobX"><img src="https://github.com/get-icon/geticon/blob/master/icons/mobx.svg" alt="MobX" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="git"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" alt="git" width="21px" height="21px"></a>
