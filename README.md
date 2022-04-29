@@ -9,7 +9,7 @@
 <p>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/blob/master/icons/typescript.svg" alt="TypeScript" width="21px" height="21px"></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/get-icon/geticon/blob/master/icons/typescript.svg" alt="TypeScript" width="64px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://mobx.js.org/README.html" title="MobX"><img src="https://github.com/get-icon/geticon/blob/master/icons/mobx.svg" alt="MobX" width="21px" height="21px"></a>
